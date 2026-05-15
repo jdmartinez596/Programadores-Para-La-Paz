@@ -1,0 +1,8 @@
+Algoritmo para compartir información confiable en internet:
+
+1. Recibir o encontrar la información de interés en redes sociales o portales web.
+2. Identificar la fuente original para verificar si proviene de un autor o medio reconocido.
+3. Buscar la misma noticia en otros dos medios independientes para confirmar la veracidad de los hechos.
+4. Revisar la fecha de publicación original para evitar difundir noticias viejas como si fueran actuales.
+5. Analizar el contenido completo del artículo para detectar posibles sesgos, clickbait o falta de pruebas.
+6. Compartir la información en perfiles personales solo después de haber validado todos los puntos anteriores, promoviendo la veracidad.
