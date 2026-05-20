@@ -1,0 +1,8 @@
+Es fundamental que las comunidades construyan sus propias herramientas tecnológicas porque esto fomenta la autonomía y reduce la dependencia de terceros
+al utilizar tecnologías abiertas como Node.js, las iniciativas ciudadanas diseñan soluciones que se adaptan exactamente a sus necesidades locales
+esto permite que los proyectos se creen desde la empatía y la participación ciudadana, pilares esenciales para el desarrollo social
+además, el software de código abierto facilita la colaboración entre diferentes grupos, permitiendo compartir y mejorar herramientas sin barreras económicas
+al dominar estas tecnologías, las comunidades protegen sus propios datos y garantizan que la información se maneje con total transparencia
+aprender a programar servidores empodera a las personas, dándoles una voz más fuerte y activa en el entorno digital y tecnológico
+esta dinámica transforma a los ciudadanos de simples consumidores de aplicaciones a creadores activos de tecnología con impacto social
+finalmente, el uso de herramientas libres asegura que los proyectos comunitarios sean sostenibles a largo plazo y verdaderamente de la gente
