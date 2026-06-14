@@ -1,0 +1,8 @@
+Es fundamental que las plataformas tecnológicas funcionen de manera estable porque de ello depende la confianza y la participación activa de la comunidad.
+Si un portal digital vecinal en Barranquilla o cualquier otra ciudad se cae constantemente, los ciudadanos dejarán de usarlo para reportar sus necesidades.
+Un servidor estable garantiza que la información comunitaria siempre esté disponible y que los procesos no se interrumpan por fallas técnicas.
+Además, aplicar medidas de seguridad en el servidor protege los datos personales sensibles, evitando que terceros malintencionados accedan a la información.
+Los servidores son el corazón tecnológico de cualquier proyecto; si el corazón falla, todo el servicio al ciudadano simplemente colapsa.
+Implementar herramientas de monitoreo, como los logs, permite a los encargados anticiparse a los problemas y corregirlos antes de que afecten a los usuarios.
+Cuando los ciudadanos perciben que una herramienta digital es rápida, segura y siempre funciona, se motivan a interactuar de forma continua.
+En conclusión, la estabilidad y seguridad de un servidor se traducen directamente en la solidez del tejido social que la plataforma busca apoyar.

@@ -1,0 +1,7 @@
+Al ejecutar el comando "node server.js", el servidor de Express se inicia y la terminal queda bloqueada a la espera de peticiones, mostrando el mensaje: "Servidor ejecutándose en puerto 3000".
+Posteriormente, al visitar la ruta "/estado" desde un navegador web o Postman, el servidor procesa la solicitud GET y devuelve la siguiente respuesta en formato JSON:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
