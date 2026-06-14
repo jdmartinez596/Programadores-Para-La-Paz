@@ -1,0 +1,8 @@
+Es fundamental que las comunidades puedan registrar y consultar reportes en plataformas tecnológicas porque esto centraliza la información y mejora la respuesta.
+Cuando los ciudadanos tienen un espacio digital estructurado para alertar sobre problemas, como un daño en una vía en Barranquilla o una falla de luz, la gestión se vuelve más eficiente.
+Esto evita que las quejas se pierdan en grupos de chat informales o en redes sociales sin que nadie les haga un seguimiento real.
+Además, al permitir que otros vecinos consulten estos reportes, se fomenta la transparencia y se evita duplicar quejas sobre el mismo incidente.
+Una plataforma de este tipo empodera a la comunidad, dándoles una voz activa y organizada en el cuidado de su propio entorno.
+El registro estructurado de incidencias también permite generar un historial de necesidades para que los líderes prioricen las soluciones.
+Aprender a guardar estos datos mediante rutas GET y POST es el primer gran paso para construir sistemas robustos y realmente útiles.
+Finalmente, el acceso equitativo a estas herramientas digitales fortalece el sentido de pertenencia y la organización ciudadana.

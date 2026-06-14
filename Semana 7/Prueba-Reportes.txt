@@ -1,0 +1,10 @@
+Al realizar una petición GET a la ruta /reportes, el servidor consulta el array (la lista en memoria) y devuelve todos los datos que se han guardado hasta el momento en formato JSON.
+Si probamos enviar un reporte y luego consultamos, la respuesta esperada es exactamente esta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]

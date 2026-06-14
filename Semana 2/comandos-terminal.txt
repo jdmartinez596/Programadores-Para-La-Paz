@@ -3,3 +3,6 @@ dir
 type nul > preguntas-semana2.txt
 type nul > comandos-terminal.txt
 type nul > reflexion-semana2.txt
+git add .
+git commit -m "Actividad Semana 2"
+git push
