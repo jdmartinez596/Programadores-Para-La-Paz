@@ -1,0 +1,8 @@
+La seguridad digital es vital para proteger plataformas comunitarias porque estas herramientas manejan información sensible de muchas personas.
+Cuando una comunidad participa activamente, deposita su confianza en que sus datos, reportes y opiniones no caerán en manos equivocadas.
+Si un sistema es vulnerable, los datos personales pueden exponerse, generando riesgos reales y falta de confianza en el entorno.
+Por esto, aplicar buenas prácticas desde la programación hasta el uso diario asegura un espacio de participación verdaderamente libre.
+Además, entender cómo proteger un servidor permite administrar los recursos y configuraciones de la comunidad con total autonomía.
+Esto reduce la dependencia de terceros y garantiza que la información siempre esté bajo el control de los propios ciudadanos.
+Proteger las credenciales y usar conexiones seguras blinda la información contra ataques o manipulaciones externas malintencionadas.
+En conclusión, la seguridad digital no es solo un requisito técnico, sino una responsabilidad ética para cuidar a quienes participan.

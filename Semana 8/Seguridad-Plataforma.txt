@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información sensible de los ciudadanos.
+2. Proteger las credenciales usando sistemas de autenticación seguros.
+3. Usar conexiones seguras (HTTPS) para que la información viaje encriptada.
+4. Registrar los accesos para tener un historial de quién entra al sistema.
+5. Limitar el acceso a la base de datos únicamente a los administradores autorizados.
