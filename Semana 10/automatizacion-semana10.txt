@@ -1,0 +1,14 @@
+FLUJO DE AUTOMATIZACIÓN — n8n + Telegram
+
+¿Qué evento activa el flujo?
+Un vecino llena un formulario web de denuncia vecinal y lo envía. El formulario puede estar hecho con un nodo webhook en n8n o integrado con un servicio como Google Sheets.
+
+¿Qué mensaje se enviaría a Telegram?
+"� Nueva denuncia vecinal registrada.
+   Categoría: [tipo de incidente]
+   Ubicación: [colonia o calle]
+   Fecha: [fecha del reporte]
+   Revisar y asignar en el sistema."
+
+¿Qué información no debería enviarse por seguridad?
+Nombres completos del denunciante, números de teléfono, direcciones exactas (solo colonia o referencia general), documentos de identidad, contraseñas, tokens de API, ni cualquier dato considerado sensible según la ley de protección de datos.

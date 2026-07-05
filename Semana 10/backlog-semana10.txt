@@ -1,0 +1,12 @@
+BACKLOG — Denuncias Vecinales
+Prioridad: de mayor a menor
+
+1. Como vecino quiero registrar una denuncia vecinal con descripción y ubicación para dejar evidencia del incidente.
+
+2. Como coordinador vecinal quiero recibir una notificación en Telegram cuando se registre una nueva denuncia para revisarla y asignarla rápidamente.
+
+3. Como miembro del comité quiero consultar el listado de denuncias registradas para dar seguimiento a cada caso.
+
+4. Como vecino quiero adjuntar una foto al momento de registrar mi denuncia para respaldar visualmente mi reporte.
+
+5. Como coordinador quiero marcar una denuncia como "atendida" o "en proceso" para mantener actualizado el estado de cada caso.

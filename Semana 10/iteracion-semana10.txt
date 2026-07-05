@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Registrar una denuncia vecinal con descripción y ubicación.
+2. Recibir notificación en Telegram cuando se registre una nueva denuncia.
+
+¿Por qué son las más importantes?
+La primera es la base del sistema: sin el registro de denuncias no hay datos que gestionar. La segunda permite que el equipo reaccione en tiempo real, lo cual es clave para la credibilidad de una veeduría vecinal. Ambas forman el ciclo mínimo funcional: entrada de información + alerta.
+
+Definición de "terminado" (Definition of Done):
+- La funcionalidad funciona correctamente en un entorno de prueba.
+- Fue probada con al menos un caso real o simulado.
+- El código está registrado en Git con un mensaje descriptivo.
+- No contiene datos sensibles ni claves expuestas.
