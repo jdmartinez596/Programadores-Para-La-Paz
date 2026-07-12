@@ -1,0 +1,17 @@
+Modelo de datos simple:
+
+Entidad: Causa
+- id: identificador único de la causa
+- titulo: nombre o título de la petición
+- descripcion: descripción detallada de la causa
+- fecha: fecha de creación de la causa
+
+Sirve para almacenar las peticiones o causas creadas por los ciudadanos.
+
+Entidad: Apoyo
+- id: identificador único del apoyo
+- causa_id: identificador de la causa a la que se apoya (relación con Causa)
+- nombre: nombre de la persona que apoya
+- fecha: fecha en que se registró el apoyo
+
+Sirve para registrar cada persona que apoya una causa y relacionarla con la causa correspondiente.
